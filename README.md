@@ -39,7 +39,7 @@ The DACE multi-instrument RV input data (`rv_dace_tau_ceti.csv`, 5 MB) is includ
 
 ## AI tool use disclosure
 
-Analysis benefited substantially from work performed by the Anthropic Claude language model (Opus 4.7) acting as a research assistant: code authoring, milestone-by-milestone analysis and detection of methodological errors. The full development history (23 milestones, 5,500 lines of analysis code, conversation logs) lives in the parent project at https://github.com/phwizard/beholder (private; available on request).
+Analysis benefited substantially from work performed by the Anthropic Claude language model (Opus 4.7) acting as a research assistant: code authoring, milestone-by-milestone analysis and detection of methodological errors. The full development history (23 milestones, 5,500 lines of analysis code) lives in the parent project at https://github.com/phwizard/beholder (private; available on request).
 
 ## License
 
