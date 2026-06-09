@@ -16,6 +16,7 @@ Reproducibility repository for the RNAAS submission *"τ Ceti's radial-velocity 
 | `scripts/run_23_radvel_validation.py` | RadVel cross-validation script. |
 | `scripts/run_17_dynesty_validation.py` | Posterior-width validation at nlive=2000. |
 | `scripts/run_19_k3_validated.py` | k=3 dynesty run at nlive=2000. |
+| `MILESTONES.md` | One-line summary of the 23-milestone development arc. |
 
 ## How to reproduce
 
