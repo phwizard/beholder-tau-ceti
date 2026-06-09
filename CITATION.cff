@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "beholder-tau-ceti: τ Ceti RV re-analysis reproducibility kit"
+message: "If you use this dataset or code, please cite the underlying RNAAS note and this Zenodo deposit."
+type: software
+authors:
+  - given-names: Vira
+    family-names: Filatova
+    orcid: "https://orcid.org/0009-0007-3246-0182"
+  - given-names: Taras
+    family-names: Filatov
+    orcid: "https://orcid.org/0009-0001-5205-5519"
+    email: taras@dappros.com
+repository-code: "https://github.com/phwizard/beholder-tau-ceti"
+license: MIT
+version: 1.0.0
+date-released: 2026-06-09
+keywords:
+  - astronomy
+  - exoplanets
+  - radial-velocity
+  - tau-ceti
+  - bayesian-inference
+  - nested-sampling
+preferred-citation:
+  type: article
+  title: "τ Ceti's radial-velocity planets re-examined: cross-validated K-deficit, bimodal candidate f, and a Bayes-factor reversal at higher nested-sampling resolution"
+  authors:
+    - given-names: Vira
+      family-names: Filatova
+      orcid: "https://orcid.org/0009-0007-3246-0182"
+    - given-names: Taras
+      family-names: Filatov
+      orcid: "https://orcid.org/0009-0001-5205-5519"
+  journal: "Research Notes of the American Astronomical Society"
+  year: 2026
+  status: submitted

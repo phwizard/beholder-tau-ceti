@@ -1,0 +1,38 @@
+{
+  "title": "beholder-tau-ceti: Reproducibility kit for the RNAAS note on tau Ceti's RV planets",
+  "description": "Source code, data, scripts, and LaTeX source for the Research Note of the American Astronomical Society (RNAAS) submission titled 'τ Ceti's radial-velocity planets re-examined: cross-validated K-deficit, bimodal candidate f, and a Bayes-factor reversal at higher nested-sampling resolution.' The work re-analyses 23 years of multi-instrument radial-velocity data (HARPS, HIRES, ESPRESSO, APF) within a joint Bayesian framework, cross-validated against the RadVel package.",
+  "creators": [
+    {
+      "name": "Filatova, Vira",
+      "orcid": "0009-0007-3246-0182"
+    },
+    {
+      "name": "Filatov, Taras",
+      "orcid": "0009-0001-5205-5519"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "article",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "astronomy",
+    "exoplanets",
+    "radial velocity",
+    "tau Ceti",
+    "Bayesian inference",
+    "nested sampling",
+    "Gaussian process",
+    "activity decorrelation"
+  ],
+  "communities": [
+    {"identifier": "astronomy-astrophysics-open-research"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/phwizard/beholder-tau-ceti",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
