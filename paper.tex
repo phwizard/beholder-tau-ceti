@@ -24,6 +24,8 @@
 We re-analyse 23~years of multi-instrument radial-velocity (RV) data for $\tau$~Ceti (HARPS, HIRES, ESPRESSO, APF; 1\,275~nightly bins) within a joint Bayesian framework with an activity Gaussian process (GP), validated against the \texttt{RadVel} package \citep{Fulton2018}. Three of the four candidate planets reported by \citet{Feng2017} are confirmed by Bayesian evidence ($\Delta\log Z \gtrsim 4$); the fourth (candidate~f, $P\!\approx\!756$~d) shows a genuinely bimodal $K$ posterior. Our recovered semi-amplitudes are 30--60\% below \citet{Feng2017} for all four candidates --- a deficit that survives independent pipeline validation. At $n_{\rm live}\!=\!500$ the data appeared to prefer $k\!=\!3$ planets (BF $\sim$ 3); at $n_{\rm live}\!=\!2000$ the verdict reverses to $k\!=\!4$ at BF $\sim$ 2. The data is therefore essentially indifferent between three and four planets, consistent with the bimodal posterior for f.
 \end{abstract}
 
+\keywords{Exoplanet detection methods (489) --- Radial velocity (1332) --- Bayesian statistics (1900) --- Stellar activity (1580) --- Astrostatistics (1882) --- Nearby stars (1113)}
+
 \section{Introduction}
 
 $\tau$~Ceti (HD~10700) is a nearby (3.65~pc) G8V dwarf with four candidate sub-Neptunes claimed by \citet{Feng2017}: g, h, e, f at orbital periods of 20.0, 49.0, 162.9, and 636~d. All sit at the radial-velocity noise floor ($K \sim 0.3$--$0.5$~m\,s$^{-1}$) where stellar activity, instrumental systematics, and aliasing compete with planetary signals.
@@ -76,7 +78,7 @@ For the planetary system itself, the conservative reading is: $\tau$~Cet~g (P~$\
 
 \section*{Acknowledgements}
 
-This research has made use of the DACE platform developed in the frame of PlanetS (\url{https://dace.unige.ch}). Analysis benefited substantially from work performed by the Anthropic Claude language model (Opus 4.7) acting as a research assistant: code authoring, milestone-by-milestone analysis, and detection of methodological errors. The complete development log (23 milestone reports, $\sim$5\,500 lines of analysis code, source repository) is publicly available at \url{https://github.com/phwizard/beholder-tau-ceti} (DOI to be assigned via Zenodo).
+This research has made use of the DACE platform developed in the frame of PlanetS (\url{https://dace.unige.ch}). Analysis benefited substantially from work performed by the Anthropic Claude language model (Opus 4.7) acting as a research assistant: code authoring, milestone-by-milestone analysis, and detection of methodological errors. The complete development log (23 milestone reports, $\sim$5\,500 lines of analysis code, source repository) is publicly available at \url{https://github.com/phwizard/beholder-tau-ceti}, archived on Zenodo \dataset[doi:10.5281/zenodo.20613120]{https://doi.org/10.5281/zenodo.20613120}.
 
 \software{dynesty \citep{Speagle2020}, RadVel \citep{Fulton2018}, celerite2 \citep{Foreman-Mackey2017}, numpy, scipy, astropy}
 
