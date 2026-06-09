@@ -35,7 +35,7 @@ The DACE multi-instrument RV input data (`rv_dace_tau_ceti.csv`, 5 MB) is includ
 ## Authors
 
 - **Vira Filatova** — independent researcher
-- **Taras Filatov** — independent researcher (taras@dappros.com)
+- **Taras Filatov** — independent researcher (taras@deepxhub.com)
 
 ## AI tool use disclosure
 

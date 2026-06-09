@@ -7,7 +7,7 @@ requires-python = ">=3.11,<3.13"
 license = { text = "MIT" }
 authors = [
     { name = "Vira Filatova" },
-    { name = "Taras Filatov", email = "taras@dappros.com" },
+    { name = "Taras Filatov", email = "taras@deepxhub.com" },
 ]
 
 dependencies = [
