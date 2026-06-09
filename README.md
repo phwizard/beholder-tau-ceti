@@ -34,12 +34,12 @@ The DACE multi-instrument RV input data (`rv_dace_tau_ceti.csv`, 5 MB) is includ
 
 ## Authors
 
-- **Vira Filatova** — independent researcher
-- **Taras Filatov** — independent researcher (taras@deepxhub.com)
+- **Vira Filatova** — vira AT deepxhub.com, DeepX https://deepxhub.com/
+- **Taras Filatov** — taras AT deepxhub.com, DeepX https://deepxhub.com/
 
 ## AI tool use disclosure
 
-Analysis, code, and draft preparation benefited substantially from the Anthropic Claude language model (Opus 4.7) acting as a research assistant under sustained human direction. Per AAS journal policy, Claude is not listed as an author. The full development history (23 milestones, 5,500 lines of analysis code, conversation logs) lives in the parent project at https://github.com/phwizard/beholder (private; available on request).
+Analysis benefited substantially from work performed by the Anthropic Claude language model (Opus 4.7) acting as a research assistant: code authoring, milestone-by-milestone analysis and detection of methodological errors. The full development history (23 milestones, 5,500 lines of analysis code, conversation logs) lives in the parent project at https://github.com/phwizard/beholder (private; available on request).
 
 ## License
 
